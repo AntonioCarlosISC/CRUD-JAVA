@@ -1,6 +1,7 @@
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
+import Database.Conexion;
 
 public class Tabla extends JComponent {
     public Tabla() {
